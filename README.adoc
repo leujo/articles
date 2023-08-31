@@ -1,0 +1,8 @@
+= About
+
+This is my first experience to write something on IT topics. There are many interesting cases that happens while coding at least in my work as programmer.And so I would tell about such situations like
+
+* applying architecture patterns;
+* deciding issues in code;
+* etc.
+
